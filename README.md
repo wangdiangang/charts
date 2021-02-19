@@ -6,16 +6,16 @@
 + [饼状图（点击文字跳转到演示页面）](https://wangdiangang.github.io/charts/%E9%A5%BC%E7%8A%B6%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
 </br><img src="https://wangdiangang.github.io/charts/images/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png" width="400"></br>
 + [线状图/折线图](https://wangdiangang.github.io/charts/%E6%8A%98%E7%BA%BF%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
-</br><img src="https://wangdiangang.github.io/charts/images/%E6%8A%98%E7%BA%BF%E5%9B%BE-%E9%AB%98%E6%B8%85.png" width="400"></br>
+</br><img src="https://wangdiangang.github.io/charts/images/%E6%8A%98%E7%BA%BF%E5%9B%BE.png" width="400"></br>
 + [柱状图](https://wangdiangang.github.io/charts/%E6%9F%B1%E7%8A%B6%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
-</br><img src="https://wangdiangang.github.io/charts/images/%E6%9F%B1%E7%8A%B6%E5%9B%BE-%E9%AB%98%E6%B8%85.png" width="400"></br>
+</br><img src="https://wangdiangang.github.io/charts/images/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png" width="400"></br>
 + [散点图](https://wangdiangang.github.io/charts/%E6%95%A3%E7%82%B9%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
-</br><img src="https://wangdiangang.github.io/charts/images/%E6%95%A3%E7%82%B9%E5%9B%BE-%E9%AB%98%E6%B8%85.png" width="400"></br>
+</br><img src="https://wangdiangang.github.io/charts/images/%E6%95%A3%E7%82%B9%E5%9B%BE.png" width="400"></br>
 + [雷达图](https://wangdiangang.github.io/charts/%E9%9B%B7%E8%BE%BE%EF%BC%88%E9%9D%A2%E7%A7%AF%EF%BC%89%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
-</br><img src="https://wangdiangang.github.io/charts/images/%E9%9B%B7%E8%BE%BE%EF%BC%88%E9%9D%A2%E7%A7%AF%EF%BC%89%E5%9B%BE-%E9%AB%98%E6%B8%85.png" width="400"></br>
+</br><img src="https://wangdiangang.github.io/charts/images/%E9%9B%B7%E8%BE%BE%E5%9B%BE.png" width="400"></br>
 
 + [漏斗图](https://wangdiangang.github.io/charts/%E6%BC%8F%E6%96%97%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
-</br><img src="https://wangdiangang.github.io/charts/images/%E6%BC%8F%E6%96%97%E5%9B%BE-%E9%AB%98%E6%B8%85E.png" width="400"></br>
+</br><img src="https://wangdiangang.github.io/charts/images/%E6%BC%8F%E6%96%97%E5%9B%BE.png" width="400"></br>
 
 + [k线图](https://wangdiangang.github.io/charts/k%E7%BA%BF%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
-</br><img src="https://wangdiangang.github.io/charts/images/k%E7%BA%BF%E5%9B%BE-%E9%AB%98%E6%B8%85.png" width="700"></br>
+</br><img src="https://wangdiangang.github.io/charts/images/k%E7%BA%BF%E5%9B%BE.png" width="700"></br>
