@@ -18,4 +18,4 @@
 </br><img src="https://wangdiangang.github.io/charts/images/%E6%BC%8F%E6%96%97%E5%9B%BE.png" width="400"></br>
 
 + [k线图](https://wangdiangang.github.io/charts/k%E7%BA%BF%E5%9B%BE-%E9%AB%98%E6%B8%85.html)
-</br><img src="https://wangdiangang.github.io/charts/images/k%E7%BA%BF%E5%9B%BE.png" width="700"></br>
+</br><img src="https://wangdiangang.github.io/charts/images/kline.png" width="700"></br>
